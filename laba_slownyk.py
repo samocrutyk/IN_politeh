@@ -12,4 +12,4 @@ for i in order:
      money=money+len(order[i])
 print(money , 'грн')
 order['вік'] = age
-print(order)
+print('ваше замовлення:',order)
